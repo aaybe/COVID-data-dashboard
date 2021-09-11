@@ -1,5 +1,5 @@
 # COVID-data-dashboard
-Use SQL server to analyze global COVID-19 data to then create a visual Tableau dashboard.
+Used SQL server to analyze global COVID-19 data to then create a visual Tableau dashboard.
 
 - SQLQuery1.sql contains all queries
 - Table 1 contains global numbers: total deaths/cases and death percentage.
