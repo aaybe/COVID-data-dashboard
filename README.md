@@ -1,6 +1,6 @@
 # COVID-data-dashboard
 Used SQL server to analyze global COVID-19 data to then create a visual Tableau dashboard.
-- Tableau: https://public.tableau.com/app/profile/ayrtonb/viz/CovidDataDashboard_16313410819610/Dashboard1
+- View dashboard here: https://public.tableau.com/app/profile/ayrtonb/viz/CovidDataDashboard_16313410819610/Dashboard1
 
 - SQLQuery1.sql contains all queries
 - Table 1 contains global numbers: total deaths/cases and death percentage.
